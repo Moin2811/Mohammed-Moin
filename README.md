@@ -1,12 +1,24 @@
 ![WhatsApp Image 2025-11-06 at 20 33 33_7848a9ec](https://github.com/user-attachments/assets/f8a02337-f7c5-4ea7-8ab4-8390098d48a4)
 
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+MohammedMoinRaoof!;DevOps+%26+Cloud+Engineer+💻;AWS+%7C+DevOps+%7C+Terraform+%7C+Kubernetes;Continuous+Learning+%26+Innovation+🚀" alt="Typing intro" />
+</p>
+
 # 👋 Hi, I'm Mohammed Moin Raoof  
 ### DevOps & Cloud Engineer  
 
 ---
 
 ### 🧩 About Me  
-Aspiring to contribute to a dynamic and innovative organization by leveraging my enthusiasm, adaptability, and passion for learning to foster continuous personal and professional growth. I enjoy building scalable applications, automating workflows, and optimizing cloud infrastructure for efficiency and reliability.
+I’m an aspiring **DevOps and Cloud Engineer** passionate about building scalable systems, automating deployments, and optimizing cloud infrastructure for reliability and performance.  
+I aim to contribute to a dynamic organization where I can grow continuously while applying my technical skills and enthusiasm for learning.
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moin2811&theme=radical&no-frame=true&margin-w=10" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabKousar&theme=radical" alt="GitHub Streak" />
+</p>
 ### 📊 GitHub Stats
 
 ![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moin2811&show_icons=true&theme=radical)
